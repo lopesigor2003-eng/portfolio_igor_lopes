@@ -21,7 +21,7 @@ export default function Header({ email, phone }: HeaderProps) {
 
   const menuItems = [
     { label: 'Portfólio', href: '#portfolio' },
-    { label: 'Militar', href: '#militar' },
+    { label: 'Trajetória', href: '#trajetoria' },
     { label: 'Sobre Mim', href: '#sobre-mim' },
     { label: 'Contato', href: '#contato' },
   ];
