@@ -111,6 +111,11 @@ export default function App() {
             onBack={handleBackToHome}
             phone={BIO_DATA.phone}
           />
+          {/* Interactive Contact & WhatsApp Composer Form */}
+          <ContactSection
+            email={BIO_DATA.email}
+            phone={BIO_DATA.phone}
+          />
         </div>
       ) : (
         /* Main Landing Page Flow */

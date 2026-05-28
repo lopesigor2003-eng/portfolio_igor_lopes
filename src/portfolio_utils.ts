@@ -31,7 +31,6 @@ const COVER_IMAGES: Record<string, string[]> = {
     "https://i.postimg.cc/br5DxJSN/unnamed.jpg",
     "https://i.postimg.cc/J0FDNnHZ/unnamed-(1).jpg",
     "https://i.postimg.cc/4429k8LM/unnamed-(2).jpg",
-    "https://i.postimg.cc/8kX6QyK0/unnamed-(3).jpg",
     "https://i.postimg.cc/KcpMS9pv/unnamed-(4).jpg",
     "https://i.postimg.cc/T2NDMkNW/unnamed-(5).jpg"
   ],
